@@ -1,1 +1,3 @@
-# GreenTree
+# GoFrame Project
+
+https://goframe.org
